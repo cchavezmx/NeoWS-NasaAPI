@@ -1,0 +1,11 @@
+.container-asteroides{
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.fondoSet{
+    background-image: url('../../assets/fondo.jpg');
+}
